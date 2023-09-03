@@ -1,4 +1,4 @@
-CRUD-Based Question Service and Quiz Application with Spring Boot | Git
+*CRUD-Based Question Service and Quiz Application with Spring Boot*
 
 • Developed a web application using Spring Boot, with CRUD operations for question management, resulting in a 40% reduction in manual data entry.
 
